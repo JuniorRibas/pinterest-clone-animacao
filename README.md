@@ -1,6 +1,6 @@
 # pinterest-clone-animacao
 
-<img alt="Junior Ribeiro" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fnoticias%2F2020%2F04%2Fo-que-significa-stonks-entenda-a-traducao-e-origem-do-meme.ghtml&psig=AOvVaw11R6s8DHNqGGlxxmqVBSIc&ust=1603667203251000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCX5oGszuwCFQAAAAAdAAAAABAD" />
+<img alt="Junior Ribeiro" src="https://s2.glbimg.com/aFYhMmYI0V3brFuxABnUfvcDqAQ=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/u/n/83nNsCQ8SWRrziGD1mAw/stonks-meme.png" />
 <h2 align="center">
   Usuando Sass pela primeira vez!
 </h2>
